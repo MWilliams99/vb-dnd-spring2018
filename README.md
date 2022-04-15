@@ -33,8 +33,7 @@ The following images include the proposed flow chart for the project. These were
 
 The following images show the proposed GUI design for the application that were ultimately not chosen for this project - either because they were too complicated for the time limit of this project, or did not follow best practices.
 
-**Proposed Main Form Design**
-
+### Proposed Main Form Design
 <img src="https://user-images.githubusercontent.com/101907789/163504612-b02f8b26-7563-44d3-9b3b-c13ee1e27c2a.png"></img>
 
 **Proposed Generated Form Design 1**

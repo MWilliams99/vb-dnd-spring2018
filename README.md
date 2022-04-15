@@ -7,7 +7,7 @@ Visual Basic was used as was required for the course.
 This project was created on April 13th, 2018 and the current version was last edited on April 21st, 2018.
 The main visual basic code for this project can be found [here](../main/DDCharacterGen%20Project/Form1.vb).
 
-This was my first real project in coding throughout my college experience that was not following tutorials step-by-step. This was also my first step into D&D character creation and all the pieces that go into that process. That said, this program by no means perfect and I would actively like to come back to this project in the future and clean it up.
+This was my first real project in coding throughout my college experience that was not following tutorials step-by-step. This was also my first step into D&D character creation and all the pieces that go into that process. That said, this program is by no means perfect and I would actively like to come back to this project in the future and clean it up.
 
 Specific items of note I'd like to change in the future include:  
 - Removing unnecessary fields.  
@@ -20,6 +20,7 @@ When generating a race or class, the selection of specific ones weigh more than 
 For example:
 - Human, Dwarf, Elf, and Halfling each have a 15% chance of being selected. While DragonBorn, Gnome, Half-elf, Half-orc, and Tiefling each have an 8% chance of being selected.
 - Within each race, the more common class(es) is(are) weighted heavier, with other classes being given an equal chance to each other. 
+
 Specific numbers chosen can be observed in the flow charts below, included in the *Design Process*.
 
 ## Design Process
@@ -31,7 +32,7 @@ The following images include the initial flow chart for the project. These were 
 ### Flow Chart Part 2
 <img src="https://user-images.githubusercontent.com/101907789/163502823-83c85185-40e7-4c63-973a-117ebca6e6b8.JPG" width="450"></img>
 
-The following images show the proposed GUI design for the application that were ultimately not chosen for this project - either because they were too complicated for the time limit of this project, or did not follow best practices.
+This next set of images show the proposed GUI design for the application that were ultimately not chosen for this project - either because they were too complicated for the time limit of this project, or did not follow best practices.
 
 ### Proposed Main Form Design
 <img src="https://user-images.githubusercontent.com/101907789/163504612-b02f8b26-7563-44d3-9b3b-c13ee1e27c2a.png"></img>
@@ -43,7 +44,7 @@ The following images show the proposed GUI design for the application that were 
 <img src="https://user-images.githubusercontent.com/101907789/163504627-9d7b3cad-6053-4502-980b-a4985752a9df.png" width="450"></img>
 
 ## How to install
-If you would like to run the D&D Character Generator, the .exe file can be found [here](../main/DDCharacterGen%20Project/bin/Debug/DDCharacterGen%20Project.exe). 
+If you would like to run the D&D Character Generator, the .exe file can be found [here](../main/DDCharacterGen%20Project/bin/Debug/DDCharacterGen%20Project.exe).  
 Otherwise, this repository should include all Visual Basic files and resources necessary to open, edit, and run the project in Visual Studio.
 
 ## Acknowledgements

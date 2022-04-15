@@ -1,7 +1,7 @@
 # Visual Basic DND Generator Spring 2018
 
 ## Project Description
-This is a Dungeons &amp; Dragons character generator created as my final project to the Spring 2018 CSC-139 Visual Basic course at Halifax Community College.  
+This is a Dungeons &amp; Dragons character generator created as my final project for the Spring 2018 CSC-139 Visual Basic course at Halifax Community College.  
 Visual Basic was used as was required for the course.
 
 This project was created on April 13th, 2018 and the current version was last edited on April 21st, 2018.

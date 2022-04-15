@@ -35,7 +35,7 @@ The following images show the proposed GUI design for the application that were 
 ![Proposed Form Generated Design 2](https://user-images.githubusercontent.com/101907789/163504627-9d7b3cad-6053-4502-980b-a4985752a9df.png)
 
 ## How to install
-If you would like to run the D&D Character Generator, the .exe file can be found [here](../DDCharacterGen Project/bin/Debug/DDCharacterGen Project.exe).
+If you would like to run the D&D Character Generator, the .exe file can be found [here](../main/DDCharacterGen%20Project/bin/Debug/DDCharacterGen%20Project.exe).
 Otherwise, this repository should include all Visual Basic files and resources necessary to open, edit, and run the project in Visual Studio.
 
 ## Acknowledgements

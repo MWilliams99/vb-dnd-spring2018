@@ -5,7 +5,7 @@ This is a Dungeons &amp; Dragons character generator created as the final projec
 Visual Basic was used as was required for the course.
 
 This project was created on April 13th, 2018 and the current version was last edited on April 21st, 2018.
-The main visual basic code for this project can be found [here](../DDCharacterGen%20Project/Form1.vb).
+The main visual basic code for this project can be found [here](../main/DDCharacterGen%20Project/Form1.vb).
 
 This was my first real project in coding throughout my college experience that was not following tutorials step-by-step. This was also my first step into D&D character creation and all the pieces that go into that process. That said, this is by no means perfect and I would actively like to come back to this project in the future and clean it up.
 

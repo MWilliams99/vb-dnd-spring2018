@@ -1,0 +1,24 @@
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.exe.config
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.exe
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.pdb
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.xml
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbprojResolveAssemblyReference.cache
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen_Project.Resources.resources
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbproj.GenerateResource.Cache
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbproj.CoreCompileInputs.cache
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.exe
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.xml
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.pdb
+C:\Users\Mollie\Desktop\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen_Project.frmMain.resources
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.exe.config
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.exe
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.pdb
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\bin\Debug\DDCharacterGen Project.xml
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbprojAssemblyReference.cache
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen_Project.frmMain.resources
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen_Project.Resources.resources
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbproj.GenerateResource.cache
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.vbproj.CoreCompileInputs.cache
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.exe
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.xml
+C:\Users\Mollie\Desktop\HCC\Spring 2018\CSC 139-1D1\Final Project\DDCharacterGen Solution\DDCharacterGen Project\obj\Debug\DDCharacterGen Project.pdb

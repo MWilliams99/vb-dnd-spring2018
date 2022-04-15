@@ -25,7 +25,10 @@ Specific numbers chosen can be observed in the flow charts below, included in th
 ## Design Process
 The following images include the proposed flow chart for the project. These were used for the base of the project, which was then changed as necessary throughout the coding process.
 
-![Flow Chart Part 1](https://user-images.githubusercontent.com/101907789/163502809-d07ef10b-0440-44d5-adc6-5d142f924cc7.JPG)
+<img src="https://user-images.githubusercontent.com/101907789/163502809-d07ef10b-0440-44d5-adc6-5d142f924cc7.JPG" width="100">
+<img src="https://user-images.githubusercontent.com/101907789/163502823-83c85185-40e7-4c63-973a-117ebca6e6b8.JPG" width="100">
+
+![Flow Chart Part 1](https://user-images.githubusercontent.com/101907789/163502809-d07ef10b-0440-44d5-adc6-5d142f924cc7.JPG | width="100")
 ![Flow Chart Part 2](https://user-images.githubusercontent.com/101907789/163502823-83c85185-40e7-4c63-973a-117ebca6e6b8.JPG)
 
 The following images show the proposed GUI design for the application that were ultimately not chosen for this project - either because they were too complicated for the time limit of this project, or did not follow best practices.
